@@ -36,6 +36,9 @@ const Login = () => {
                     <div onClick={handleToggle} className='mr-3 mt-2 text-2xl text-slate-800'>
                         {passwordIcon}
                     </div>
+                    <div>
+                      hello
+                    </div>
                      </div>
                   </div>
                   <div className='flex px-26 mt-6 justify-between items-center'>
